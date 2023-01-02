@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="https://github.com/Shed-Enterprises/react-crypto-icons">
+  <!-- <a href="https://github.com/rogdevil/crypto-icons">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
   <h2 align="center">Crypto Icons</h2>
@@ -158,9 +158,9 @@ Aryan Choudhary(rogdevil) - sep2001aryan@yahoo.com
 
 
 <!-- Project URLS-->
-[github-url]: https://github.com/Shed-Enterprises/react-crypto-icons
-[github-issues]: https://github.com/Shed-Enterprises/react-crypto-icons/issues
-[repo-path]: Shed-Enterprises/react-crypto-icons
+[github-url]: https://github.com/rogdevil/crypto-icons
+[github-issues]: https://github.com/rogdevil/crypto-icons/issues
+[repo-path]: rogdevil/crypto-icons
 [logo-path]: assets/img/logo
 
 <!-- Built With -->
@@ -170,24 +170,24 @@ Aryan Choudhary(rogdevil) - sep2001aryan@yahoo.com
 [cryptocurrency-icons]: https://github.com/spothq/cryptocurrency-icons
 
 <!-- License Badge -->
-[license-shield]: https://img.shields.io/github/license/Shed-Enterprises/react-crypto-icons.svg?style=for-the-badge
-[license-url]: https://github.com/Shed-Enterprises/react-crypto-icons/blob/main/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/rogdevil/crypto-icons.svg?style=for-the-badge
+[license-url]: https://github.com/rogdevil/crypto-icons/blob/main/LICENSE.txt
 
 <!-- Version Badge -->
-[package-version-shield]: https://img.shields.io/github/package-json/v/Shed-Enterprises/react-crypto-icons.svg?style=for-the-badge
+[package-version-shield]: https://img.shields.io/github/package-json/v/rogdevil/crypto-icons.svg?style=for-the-badge
 
 <!-- Build Status Badge -->
-[build-status-shield]: https://img.shields.io/travis/com/Shed-Enterprises/react-crypto-icons.svg?style=for-the-badge
+[build-status-shield]: https://img.shields.io/travis/com/rogdevil/crypto-icons.svg?style=for-the-badge
 
 <!-- Contributors Badge -->
-[contributors-shield]: https://img.shields.io/github/contributors/Shed-Enterprises/react-crypto-icons.svg?style=for-the-badge
-[contributors-url]: https://github.com/Shed-Enterprises/react-crypto-icons/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/rogdevil/crypto-icons.svg?style=for-the-badge
+[contributors-url]: https://github.com/rogdevil/crypto-icons/graphs/contributors
 
 <!-- Downloads Badge -->
 [npm-monthly-downloads-shield]: https://img.shields.io/npm/dt/react-crypto-icons?style=for-the-badge
 [npm-monthly-downloads-url]: https://www.npmjs.com/package/react-crypto-icons
 
 <!-- Languages Badge-->
-[top-languages-shield]: https://img.shields.io/github/languages/top/Shed-Enterprises/react-crypto-icons.svg?style=for-the-badge
+[top-languages-shield]: https://img.shields.io/github/languages/top/rogdevil/crypto-icons.svg?style=for-the-badge
 
-[languages-count-shield]: https://img.shields.io/github/languages/count/Shed-Enterprises/react-crypto-icons.svg?style=for-the-badge
+[languages-count-shield]: https://img.shields.io/github/languages/count/rogdevil/crypto-icons.svg?style=for-the-badge
