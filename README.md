@@ -151,7 +151,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aryan Choudhary(rogdevil) - sep2001aryan@yahoo.com
+rogdevil - sep2001aryan@yahoo.com
 
 <p align="right"><a href="#top">back to top</a></p>
 
