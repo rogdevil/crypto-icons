@@ -1,15 +1,15 @@
 {
     "description": "A simple React component that can display 600 crypto icons",
-    "version": "1.0.8",
-    "name": "react-crypto-icons",
+    "version": "1.0.7",
+    "name": "@rogdevil/crypto-icons",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rileystephens28/react-crypto-icons.git"
+        "url": "git+https://github.com/rogdevil/crypto-icons.git"
     },
     "bugs": {
-        "url": "https://github.com/rileystephens28/react-crypto-icons/issues"
+        "url": "https://github.com/rogdevil/crypto-icons/issues"
     },
-    "homepage": "https://github.com/rileystephens28/react-crypto-icons#readme",
+    "homepage": "https://github.com/rogdevil/crypto-icons#readme",
     "directories": {
         "example": "example",
         "lib": "lib"
