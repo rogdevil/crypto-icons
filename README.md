@@ -14,16 +14,16 @@
   <!-- <a href="https://github.com/Shed-Enterprises/react-crypto-icons">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
-  <h2 align="center">React Crypto Icons</h2>
+  <h2 align="center">Crypto Icons</h2>
   <p align="center">
-    <i>A simple React component that can display 600 crypto icons</i>
+    <i>A simple React component that can display 600 crypto icons and fork of <a href="https://github.com/shed3/react-crypto-icons">React Crypto Icons</a> with react 18 support</i>
     <br />
     <br />
-    <!-- <a href="https://github.com/Shed-Enterprises/react-crypto-icons">View Demo</a>
+    <!-- <a href="https://github.com/rogdevil/crypto-icons">View Demo</a>
     · -->
-    <a href="https://github.com/Shed-Enterprises/react-crypto-icons/issues">Report Bug</a>
+    <a href="https://github.com/rogdevil/crypto-icons/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Shed-Enterprises/react-crypto-icons/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement">Request Feature</a>
+    <a href="https://github.com/rogdevil/crypto-icons/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement">Request Feature</a>
   </p>
 </div>
 
@@ -61,8 +61,8 @@ React Crypto Icons provides a simple React component that can be used to display
 ### Built With
 This library requires the following packages to be installed:
 
-* [React.js][react] v18.0.2+
-* [react-dom ][react-dom] v18.0.2+
+* [React.js][react] v18.2.0+
+* [react-dom ][react-dom] v18.2.0+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -151,7 +151,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Riley Stephens - rileystephens@escalatorllc.com
+Aryan Choudhary(rogdevil) - sep2001aryan@yahoo.com
 
 <p align="right"><a href="#top">back to top</a></p>
 
