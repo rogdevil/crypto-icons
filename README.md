@@ -61,8 +61,8 @@ React Crypto Icons provides a simple React component that can be used to display
 ### Built With
 This library requires the following packages to be installed:
 
-* [React.js][react] v17.0.2+
-* [react-dom ][react-dom] v17.0.2+
+* [React.js][react] v18.0.2+
+* [react-dom ][react-dom] v18.0.2+
 
 <!-- GETTING STARTED -->
 ## Getting Started
